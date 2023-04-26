@@ -13,10 +13,10 @@ global.urlnya = `https://chat.whatsapp.com/GJPWMLj7Q2ZAzoDKTaTYd6`
 global.docx = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 global.channel = `https://youtube.com/@survivofc`
 
-global.creator = "6282299284898@s.whatsapp.net"
-global.premiun = '6282299284898'
-global.owner = ["6282299284898"]
-global.ownerName = 'Deffri Gans'
+global.creator = "6288271138135@s.whatsapp.net"
+global.premiun = '6288271138135'
+global.owner = ["6288271138135"]
+global.ownerName = 'AHAHAHA Gans'
 global.wm = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
 global.namabot = 'ᏀᎪΝՏᏴϴͲᏃ'
 global.packname = 'ᏀᎪΝՏᏴϴͲᏃ'
